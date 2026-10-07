@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "revision": 4,
-  "updateUrl": "https://raw.githubusercontent.com/Add3r/babyroo-catalogue/main/catalogue.json",
+  "updateUrl": "https://raw.githubusercontent.com/Add3r/harbor-reference-packs/main/catalogue.json",
   "stages": [
     "Planning pregnancy and early pregnancy: before conception–13 weeks",
     "Pregnancy comfort and preparation: 14–27 weeks",

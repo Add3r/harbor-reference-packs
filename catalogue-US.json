@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "revision": 2,
-  "updateUrl": "https://raw.githubusercontent.com/Add3r/babyroo-catalogue/main/catalogue-US.json",
+  "updateUrl": "https://raw.githubusercontent.com/Add3r/harbor-reference-packs/main/catalogue-US.json",
   "country": "US",
   "countryName": "United States",
   "currency": "USD",
